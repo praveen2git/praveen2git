@@ -123,6 +123,7 @@ A Web developer🎯 from India. I'm passionate about Full-Stack Web Development.
 <!-- Your support, if you have it 
 I created these images, feel free to use them.
 -->
+<h3 align="left">Donate with Bitcoin 💸 to help it improve! 18jbC1QDU4M35AKL6PPZo9d226VZXeZrWW</h3>
 <p align="center">
   <!--<a href="https://www.patreon.com/praveen2git" target="_blank">
     <img width="18%" alt="Check my Patreon" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-patreon.png"/>
@@ -131,9 +132,6 @@ I created these images, feel free to use them.
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-paypal.png"/>
   </a>-->
   
-  <a href="bitcoin:18jbC1QDU4M35AKL6PPZo9d226VZXeZrWW" target="_blank">
-    <img width="18%" alt="Donate with Bitcoin" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"/>
-  </a>
 
   <!--<a href="https://buymeacoffee.com/pk4888145l" target="_new">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-buy-coffee.png"/>
@@ -145,6 +143,10 @@ I created these images, feel free to use them.
 <div align="center">
   <img src="https://profile-counter.glitch.me/praveen2git/count.svg?"  />
 </div>
+<hr>
+<p align="center" dir="auto">
+Developing with ❤️ in India 🇮🇳 
+</p>
 
 ###
 
