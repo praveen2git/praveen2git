@@ -130,9 +130,14 @@ I created these images, feel free to use them.
   <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=praveen2git" target="_blank">
       <img width="18%" alt="Donate with Paypal" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-paypal.png"/>
   </a>-->
-  <a href="https://buymeacoffee.com/pk4888145l" target="_new">
-      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-buy-coffee.png"/>
+  
+  <a href="bitcoin:18jbC1QDU4M35AKL6PPZo9d226VZXeZrWW" target="_blank">
+    <img width="18%" alt="Donate with Bitcoin" src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg"/>
   </a>
+
+  <!--<a href="https://buymeacoffee.com/pk4888145l" target="_new">
+      <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-buy-coffee.png"/>
+  </a>-->
 </p>
 
 ###
