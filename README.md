@@ -11,6 +11,7 @@ A Web developer🎯 from India. I'm passionate about Full-Stack Web Development.
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Salem-3c9)
 
+
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/praveen2git/praveen2git/47c7daab09f4fefb9d7c8eecbf9313bd596c01d7/git-header.svg" />
 
 - 🌱 I’m currently learning React Js, Node Js and DevOps.
@@ -79,6 +80,7 @@ A Web developer🎯 from India. I'm passionate about Full-Stack Web Development.
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen2git&label=Profile%20views&color=0e75b6&style=flat" alt="praveen2git" /> </p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=praveen2git&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -144,9 +146,7 @@ I created these images, feel free to use them.
   <img src="https://profile-counter.glitch.me/praveen2git/count.svg?"  />
 </div>
 <hr>
-<p align="center" dir="auto">
-Developing with ❤️ in India 🇮🇳 
-</p>
+<p align="center" dir="auto"> Developing with ❤️ in India 🇮🇳 </p>
 
 ###
 
