@@ -83,9 +83,9 @@ A Web developer🎯 from India. I'm passionate about Full-Stack Web Development.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveen2git&label=Profile%20views&color=0e75b6&style=flat" alt="praveen2git" /> </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=praveen2git&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <a href="https://leogitreadme.vercel.app/streak"><img src="https://leogitreadme.vercel.app/api/streak?username=praveen2git&theme=dracula" alt="GitHub Streak" height="150" /></a>
+  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen2git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <!--<img src="https://streak-stats.demolab.com?user=praveen2git&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> -->
   <img src="https://leogitreadme.vercel.app/api/trophy?username=praveen2git&theme=dracula" alt="trophy" />
 </div>
 
