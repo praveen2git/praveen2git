@@ -135,9 +135,10 @@ I created these images, feel free to use them.
   </a>-->
   
 
-  <!--<a href="https://buymeacoffee.com/pk4888145l" target="_new">
+  <a href="https://buymeacoffee.com/praveenmanc" target="_new">
       <img width="18%" alt="Buy me a coffee" src="https://raw.githubusercontent.com/praveen2git/praveen2git/main/support-buy-coffee.png"/>
-  </a>-->
+  </a>
+  
 </p>
 
 ###
