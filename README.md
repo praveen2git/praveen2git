@@ -143,7 +143,7 @@ I created these images, feel free to use them.
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/praveen2git/count.svg?"  />
+  <img src="https://leogitreadme.vercel.app/api/visitor?page=praveen2git&template=digital" alt="visitor count" />
 </div>
 <hr>
 <p align="center" dir="auto"> Developing with ❤️ in India 🇮🇳 </p>
