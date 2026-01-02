@@ -117,7 +117,7 @@ A Web developer🎯 from India. I'm passionate about Full-Stack Web Development.
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://praveen2git-6cdeb.web.app/)
 
 
-<a href="https://dev.to/Praveen"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
+<a href="https://dev.to/praveen2git"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
 
 </div>
 
