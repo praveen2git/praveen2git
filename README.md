@@ -84,8 +84,8 @@ A Web developer🎯 from India. I'm passionate about Full-Stack Web Development.
 
 <div align="center">
   <a href="https://leogitreadme.vercel.app/streak"><img src="https://leogitreadme.vercel.app/api/streak?username=praveen2git&theme=dracula" alt="GitHub Streak" height="150" /></a>
+  <img src="https://leogitreadme.vercel.app/api/top-langs?username=praveen2git&locale=en&layout=compact&card_width=320&theme=dracula" height="150" alt="languages graph"  />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=praveen2git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://leogitreadme.vercel.app/api/trophy?username=praveen2git&theme=dracula" alt="trophy" />
 </div>
 
