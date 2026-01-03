@@ -14,8 +14,8 @@ A Web developer🎯 from India. I'm passionate about Full-Stack Web Development.
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/praveen2git/praveen2git/47c7daab09f4fefb9d7c8eecbf9313bd596c01d7/git-header.svg" />
 
-- 🌱 I’m currently learning React Js, Node Js and DevOps.
-- 👯 I’m looking to collaborate on React Js, Node Js projects and Basic Web Dev stuff
+- 🌱 I’m currently using React Js, Node Js, Python, PHP and DevOps.
+- 👯 I’m looking to collaborate on React Js, Node Js, Python and PHP projects and Basic Web Dev stuff
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/praveen2git) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
