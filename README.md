@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
   
-A Web developer🎯 from India. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+🚀 A passionate Full-Stack Web Developer from India, focused on building scalable and high-performance web applications. 🤖 I enjoy automating workflows, designing efficient pipelines, and solving real-world scalability challenges. ☁️ A strong advocate of open source, cloud computing, DevOps, and continuous innovation through automation.
 
 
 ![age](https://img.shields.io/badge/age-30-blue)
